@@ -12,6 +12,7 @@ def solution(participant, completion):
     return answer
 
 """
+
 #2차 풀이 효율성 100점
 import collections
 def solution(participant, completion):
