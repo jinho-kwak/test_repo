@@ -9,5 +9,3 @@ def solution(a, b):
         tmp += mon[i]
     answer = day[(tmp + b) % 7]
     return answer
-
-print(solution(5,24))
