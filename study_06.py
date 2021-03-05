@@ -9,3 +9,11 @@ def solution(a, b):
         tmp += mon[i]
     answer = day[(tmp + b) % 7]
     return answer
+
+
+    asdasd
+    asdasdsd
+    asciidas
+    d
+    asd
+    a
